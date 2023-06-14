@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="default_web_client_id"
+     translatable="false">67916383373-7i142i779o8q5oelldap2kmi1125bu5j.apps.googleusercontent.com</string>
+    <string name="firebase_database_url"
+        translatable="false">https://firstfire-de7ba-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId"
+        translatable="false">67916383373</string>
+    <string name="google_api_key"
+        translatable="false">AIzaSyCQoENWXv-bsRa-Zp8u4rC51GvXd-ewsl0</string
+        >
+    <string name="google_app_id"
+        translatable="false">1:67916383373:android:12d1ed9b4bc1164d170ec4</string>
+    <string name="google_crash_reporting_api_key"
+        translatable="false">AIzaSyAUevbCUEw24jYzW_IOl4KgfaZhNeMAIKk</string
+        >
+    <string name="google_storage_bucket"
+        translatable="false">firstfire-de7ba.appspot.com</string>
+    <string name="project_id" translatable="false">firstfire-de7ba</string>
+</resources>

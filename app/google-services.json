@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67916383373",
+    "firebase_url": "https://firstfire-de7ba-default-rtdb.firebaseio.com",
+    "project_id": "firstfire-de7ba",
+    "storage_bucket": "firstfire-de7ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67916383373:android:12d1ed9b4bc1164d170ec4",
+        "android_client_info": {
+          "package_name": "com.example.firebaseppb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67916383373-7i142i779o8q5oelldap2kmi1125bu5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQoENWXv-bsRa-Zp8u4rC51GvXd-ewsl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67916383373-7i142i779o8q5oelldap2kmi1125bu5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
