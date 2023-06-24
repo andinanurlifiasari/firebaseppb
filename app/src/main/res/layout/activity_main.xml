@@ -5,20 +5,18 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:padding="16dp"
     tools:context=".MainActivity">
-
     <Button
         android:id="@+id/insertButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="12dp"
-        android:layout_marginTop="12dp"
-        android:layout_marginEnd="12dp"
-        android:layout_marginBottom="12dp"
-        android:backgroundTint="#0095F6"
+        android:layout_margin="12dp"
         android:text="Insert"
-        android:textColor="@color/white" />
+        android:onClick="insertMahasiswa"
+        android:backgroundTint="#0095F6"
+        android:textColor="@color/white"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="16dp" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
@@ -34,6 +32,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:padding="16dp">
+        android:padding="16dp"
+        tools:ignore="RedundantNamespace">
     </LinearLayout>
 </RelativeLayout>
